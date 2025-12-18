@@ -11,10 +11,7 @@ language models.
 - Tokenization and vocabulary construction
 - N-gram language modeling (trigram)
 - Probabilistic sequence generation
-- Evaluation using perplexity
-- Neural language model with embeddings (PyTorch)
-- Neural sequence generation
-- Conceptual extension toward LLM-based event extraction
+
 
 ## Motivation
 Supply chains generate large volumes of semi-structured and unstructured data
